@@ -1,7 +1,9 @@
 # Run Monash — Database Implementation & Queries
 
 **Version:** 1.0
+
 **Author:** Liew Yun Ru
+
 **Last updated:** 7th October 2025
 
 ## Project summary
